@@ -6,8 +6,7 @@
 
 
 ## Мой стек:
-![Java Script](https://img.shields.io/badge/-Java%20Script-informational)
-![Python](https://img.shields.io/badge/-Python-informational)  
+![Java Script](https://img.shields.io/badge/-Java%20Script-informational)  
 ![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-yellowgreen)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-yellowgreen)  
