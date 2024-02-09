@@ -18,7 +18,7 @@
 ## Связаться со мной можно здесь
 Telegram: [@anton_babenko](https://t.me/anton_babenko)
 
-![](https://github-profite-summary-cards.vercet.app/api/cards/stats?username=Dadorion&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dadorion&theme=default)
 
 <!--
   
