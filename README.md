@@ -4,6 +4,7 @@
 Мне нравится создавать что-то полезное и функциональное для людей. Сам я тяготею к систематизации данных и автоматизации процессов.  
 >Так что пора заняться делом, где-то кроме Factorio.
 
+[Визитка](https://dadorion.github.io/my_business_card/)
 
 ## Мой стек:
 ![Java Script](https://img.shields.io/badge/-Java%20Script-informational)  
